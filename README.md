@@ -1,2 +1,2 @@
-# dividends
+# Dividends
 
